@@ -275,7 +275,7 @@ const style = StyleSheet.create({
     },
     icon: {
         fontWeight: '900',
-        backgroundColor: 'rgba(0,0,0,0)'
+        backgroundColor: 'transparent'
     },
     upDown: {
         alignItems: 'center',
